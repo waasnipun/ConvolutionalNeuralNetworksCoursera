@@ -1,7 +1,1 @@
-# ConvolutionalNeuralNetworksCoursera
-# ConvolutionalNeuralNetworksCoursera
-# ConvolutionalNeuralNetworksCoursera
-# ConvolutionalNeuralNetworksCoursera
-# ConvolutionalNeuralNetworksCoursera
-# ConvolutionalNeuralNetworksCoursera
-# ConvolutionalNeuralNetworksCoursera
+
